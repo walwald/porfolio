@@ -5,13 +5,13 @@
 > 경영학 전공자로서의 비즈니스 감각,               
 > 네 가지를 두루 갖춘 백엔드 개발자
       
-## 📌Intro
-## 📌Contact
+## 📍 Intro
+## 📍 Contact
 - Email: 97djang@gmail.com
 - Blog: https://walwaldev.tistory.com
 - Github: https://github.com/walwald
       
-## 📌Projects
+## 📍 Projects
 ### 1. 4bsop
 > 커머셜 웹사이트 Aesop의 클론 코딩 프로젝트 `Team Project`    
 개발 기간: 2023.04.03 ~ 2023.04.14        <br><br>
