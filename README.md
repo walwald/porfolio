@@ -16,7 +16,7 @@
 > 커머셜 웹사이트 Aesop의 클론 코딩 프로젝트 `Team Project`    
 개발 기간: 2023.04.03 ~ 2023.04.14        <br><br>
 기술 스택:      
-JavaScript/ Node.js/ Express.js/ JWT/ Bcrypt/ MySql/      
-Dbmate/ Nodemon/ REST/ Prittier/ Git/ Github/ Trello/ Notion      
+JavaScript/ Node.js/ Express.js/ JWT/ Bcrypt/       
+Dbmate/ MySql/ Nodemon/ REST/ Prittier/ Git/ Github/ Trello/ Notion      
 [프로젝트 Repository](https://github.com/wecode-bootcamp-korea/44-1st-four-branch-backend)
 ***
