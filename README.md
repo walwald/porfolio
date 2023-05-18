@@ -17,5 +17,5 @@
 기술 스택:      
 JavaScript/ Node.js/ Express.js/ JWT/ Bcrypt/       
 Dbmate/ MySql/ Nodemon/ REST/ Prittier/ Git/ Github/ Trello/ Postman/ Notion 
-[프로젝트 Repository](https://github.com/wecode-bootcamp-korea/44-1st-four-branch-backend)
+[프로젝트 Repository](https://github.com/walwald/44-1st-four-branch-backend)
 ***
