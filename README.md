@@ -16,8 +16,8 @@
 개발 기간: 2023.04.20 ~ 2023.05.04        <br><br>
 개발 인원: 프론트엔드 4명, 백엔드 3명 <br><br>
 기술 스택:      
-JavaScript/ Node.js/ Express.js/ JWT/ Bcrypt/ Dbmate/ MySql       
-/ Nodemon/ REST/ Prittier/ Jest/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion    <br><br>
+JavaScript/ Node.js/ Express.js/ JWT/ Bcrypt/ Dbmate/ MySql/       
+Nodemon/ REST/ Prittier/ Jest/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion    <br><br>
 [프로젝트 Repository](https://github.com/walwald/44-2nd-Dream-backend)<br>
 [회고록](https://walwaldev.tistory.com/57)<br>
 
@@ -26,8 +26,8 @@ JavaScript/ Node.js/ Express.js/ JWT/ Bcrypt/ Dbmate/ MySql
 개발 기간: 2023.04.03 ~ 2023.04.14        <br><br>
 개발 인원: 프론트엔드 2명, 백엔드 2명 <br><br>
 기술 스택:      
-JavaScript/ Node.js/ Express.js/ JWT/ Bcrypt/ Dbmate/ MySql       
-/ Nodemon/ REST/ Prittier/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion    <br><br>
+JavaScript/ Node.js/ Express.js/ JWT/ Bcrypt/ Dbmate/ MySql/       
+Nodemon/ REST/ Prittier/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion    <br><br>
 [프로젝트 Repository](https://github.com/walwald/44-1st-four-branch-backend)<br>
 [회고록](https://walwaldev.tistory.com/49)
 
