@@ -16,6 +16,6 @@
 개발 기간: 2023.04.03 ~ 2023.04.14        <br><br>
 기술 스택:      
 JavaScript/ Node.js/ Express.js/ JWT/ Bcrypt/       
-Dbmate/ MySql/ Nodemon/ REST/ Prittier/ Git/ Github/ Trello/ Postman/ Notion 
+Dbmate/ MySql/ Nodemon/ REST/ Prittier/ Git/ Github/ Trello/ Postman/ Notion    
 [프로젝트 Repository](https://github.com/walwald/44-1st-four-branch-backend)
 ***
