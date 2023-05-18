@@ -17,8 +17,9 @@
 개발 인원: 프론트엔드 4명, 백엔드 3명 <br><br>
 기술 스택:      
 JavaScript/ Node.js/ Express.js/ JWT/ Bcrypt/ Dbmate/ MySql       
-/ Nodemon/ REST/ Prittier/ Jest/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion    
+/ Nodemon/ REST/ Prittier/ Jest/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion    <br><br>
 [프로젝트 Repository](https://github.com/walwald/44-2nd-Dream-backend)
+[회고록](https://walwaldev.tistory.com/57)
 <br><br>
 ### 2. [4bsop](http://s3-hosting-kimyoungwoon.s3-website.ap-northeast-2.amazonaws.com/)
 > 커머셜 웹사이트 Aesop을 모델링한 화장품 쇼핑몰 웹사이트 제작 프로젝트 `Team Project`    
@@ -26,8 +27,9 @@ JavaScript/ Node.js/ Express.js/ JWT/ Bcrypt/ Dbmate/ MySql
 개발 인원: 프론트엔드 2명, 백엔드 2명 <br><br>
 기술 스택:      
 JavaScript/ Node.js/ Express.js/ JWT/ Bcrypt/ Dbmate/ MySql       
-/ Nodemon/ REST/ Prittier/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion    
+/ Nodemon/ REST/ Prittier/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion    <br><br>
 [프로젝트 Repository](https://github.com/walwald/44-1st-four-branch-backend)
+[회고록](https://walwaldev.tistory.com/49)
 
 
 ***
