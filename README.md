@@ -11,7 +11,7 @@
 - Github: https://github.com/walwald
       
 ## 📍 Projects
-### 1. [DREAM]()
+### 1. [DREAM](https://www.youtube.com/watch?v=UFuS91VcVp8)
 > p2p 명품 경매 거래 플랫폼 KREAM을 모델링한 레고 제품 p2p 경매 거래 플랫폼 웹사이트 제작 프로젝트 `Team Project`    
 개발 기간: 2023.04.20 ~ 2023.05.04        <br><br>
 개발 인원: 프론트엔드 4명, 백엔드 3명 <br><br>
