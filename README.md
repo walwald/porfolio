@@ -11,7 +11,7 @@
 - Github: https://github.com/walwald
       
 ## 📍 Projects
-### 1. [DREAM](https://www.youtube.com/watch?v=UFuS91VcVp8)
+### 1. DREAM
 > p2p 명품 경매 거래 플랫폼 KREAM을 모델링한 레고 제품 p2p 경매 거래 플랫폼 웹사이트 제작 프로젝트 `Team Project`    
 개발 기간: 2023.04.20 ~ 2023.05.04        <br><br>
 개발 인원: 프론트엔드 4명, 백엔드 3명 <br><br>
@@ -21,7 +21,7 @@ Nodemon/ REST/ Prittier/ Jest/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion
 [프로젝트 Repository](https://github.com/walwald/44-2nd-Dream-backend)<br>
 [회고록](https://walwaldev.tistory.com/57)<br>
 
-### 2. [4bsop](http://s3-hosting-kimyoungwoon.s3-website.ap-northeast-2.amazonaws.com/)
+### 2. 4bsop
 > 커머셜 웹사이트 Aesop을 모델링한 화장품 쇼핑몰 웹사이트 제작 프로젝트 `Team Project`    
 개발 기간: 2023.04.03 ~ 2023.04.14        <br><br>
 개발 인원: 프론트엔드 2명, 백엔드 2명 <br><br>
