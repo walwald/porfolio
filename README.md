@@ -32,7 +32,7 @@ Nodemon 2.0/ REST/ Prittier/ Jest/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ No
 [프로젝트 Repository](https://github.com/walwald/44-2nd-Dream-backend)<br>
 [회고록](https://walwaldev.tistory.com/57)<br>
 
-### 2. 4bsop
+### 3. 4bsop
 > 커머셜 웹사이트 Aesop을 모델링한 화장품 쇼핑몰 웹사이트 제작 프로젝트 `Team Project` <br><br>
 개발 기간: 2023.04.03 ~ 2023.04.14 <br>
 개발 인원: 프론트엔드 2명, 백엔드 2명 <br><br>
