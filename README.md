@@ -11,13 +11,24 @@
 - Github: https://github.com/walwald
       
 ## 📍 Projects
-### 1. DREAM
+### 1. WECAR
+> c2c 공간 대여 플랫폼 Airbnb를 모델링한 c2c 차량 대여 플랫폼 웹사이트 제작 프로젝트 `Team Project`
+개발 기간: 2023.05.12 ~ 2023.06.02 <br><br>
+개발 인원: 프론트엔드 1명, 백엔드 1명 <br><br>
+기술 스택: 
+TypeScript 4.7/ NestJS v9/ TypeOrm 0.3/ MySql 5.7/ <br>
+REST/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion
+<br><br>
+[프로젝트 Repository](https://github.com/walwald/WECAR)
+[회고록](https://walwaldev.tistory.com)<br>
+
+### 2. DREAM
 > c2c 명품 경매 거래 플랫폼 KREAM을 모델링한 레고 제품 c2c 경매 거래 플랫폼 웹사이트 제작 프로젝트 `Team Project`    
 개발 기간: 2023.04.20 ~ 2023.05.04        <br><br>
 개발 인원: 프론트엔드 4명, 백엔드 3명 <br><br>
 기술 스택:      
-JavaScript/ Node.js/ Express.js/ JWT/ Bcrypt/ Dbmate/ MySql/       
-Nodemon/ REST/ Prittier/ Jest/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion    <br><br>
+JavaScript/ Node.js v16.15/ Express.js 4.18/ JWT 9.0/ Bcrypt 5.1/ Dbmate/ MySql 5.7/       
+Nodemon 2.0/ REST/ Prittier/ Jest/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion    <br><br>
 [프로젝트 Repository](https://github.com/walwald/44-2nd-Dream-backend)<br>
 [회고록](https://walwaldev.tistory.com/57)<br>
 
@@ -26,8 +37,8 @@ Nodemon/ REST/ Prittier/ Jest/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion
 개발 기간: 2023.04.03 ~ 2023.04.14        <br><br>
 개발 인원: 프론트엔드 2명, 백엔드 2명 <br><br>
 기술 스택:      
-JavaScript/ Node.js/ Express.js/ JWT/ Bcrypt/ Dbmate/ MySql/       
-Nodemon/ REST/ Prittier/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion    <br><br>
+JavaScript/ Node.js v16.15/ Express.js 4.18/ JWT 9.0/ Bcrypt 5.1/ Dbmate/ MySql 5.7/       
+Nodemon 2.0/ REST/ Prittier/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion    <br><br>
 [프로젝트 Repository](https://github.com/walwald/44-1st-four-branch-backend)<br>
 [회고록](https://walwaldev.tistory.com/49)
 
