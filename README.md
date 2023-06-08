@@ -15,7 +15,7 @@
 > c2c 공간 대여 플랫폼 Airbnb를 모델링한 c2c 차량 대여 플랫폼 웹사이트 제작 프로젝트 `Team Project` <br><br>
 개발 기간: 2023.05.12 ~ 2023.06.02 <br>
 개발 인원: 프론트엔드 1명, 백엔드 1명 <br><br>
-기술 스택: 
+기술 스택: <br>
 TypeScript 4.7/ NestJS v9/ TypeOrm 0.3/ MySql 5.7/ <br>
 REST/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion
 <br><br>
