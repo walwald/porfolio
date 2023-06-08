@@ -26,8 +26,8 @@ REST/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion
 개발 기간: 2023.04.20 ~ 2023.05.04 <br>
 개발 인원: 프론트엔드 4명, 백엔드 3명 <br><br>
 기술 스택:      
-JavaScript/ Node.js v16.15/ Express.js 4.18/ JWT 9.0/ Bcrypt 5.1/ Dbmate/ MySql 5.7/       
-Nodemon 2.0/ REST/ Prittier/ Jest/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion    <br><br>
+JavaScript/ Node.js v16.15/ Express.js 4.18/ Jest 29.5/ JWT 9.0/ Bcrypt 5.1/ Dbmate/ MySql 5.7/       
+Nodemon 2.0/ REST/ Prittier/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion    <br><br>
 [프로젝트 Repository](https://github.com/walwald/44-2nd-Dream-backend)<br>
 [회고록](https://walwaldev.tistory.com/57)<br>
 
