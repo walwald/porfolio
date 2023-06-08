@@ -19,7 +19,7 @@ TypeScript 4.7/ NestJS v9/ TypeOrm 0.3/ MySql 5.7/ <br>
 REST/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion
 <br><br>
 [프로젝트 Repository](https://github.com/walwald/WECAR)<br>
-[회고록](https://walwaldev.tistory.com)<br>
+[회고록](https://walwaldev.tistory.com/66)<br>
 
 ### 2. DREAM
 > c2c 명품 경매 거래 플랫폼 KREAM을 모델링한 레고 제품 c2c 경매 거래 플랫폼 웹사이트 제작 프로젝트 `Team Project` <br><br>
