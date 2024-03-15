@@ -24,7 +24,7 @@ REST/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion
 ### 2. DREAM
 > c2c 명품 경매 거래 플랫폼 KREAM을 모델링한 레고 제품 c2c 경매 거래 플랫폼 웹사이트 제작 프로젝트 `Team Project` <br><br>
 개발 기간: 2023.04.20 ~ 2023.05.04 <br>
-개발 인원: 프론트엔드 4명, 백엔드 3명 <br><br>
+개발 인원: 프론트엔드 3명, 백엔드 4명 <br><br>
 기술 스택:      
 JavaScript/ Node.js v16.15/ Express.js 4.18/ Jest 29.5/ JWT 9.0/ Bcrypt 5.1/ Dbmate/ MySql 5.7/       
 Nodemon 2.0/ REST/ Prittier/ AWS/ Docker/ Git/ Github/ Trello/ Postman/ Notion    <br><br>
